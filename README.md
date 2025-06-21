@@ -29,6 +29,7 @@ A Python-based desktop application for managing inventory in small to medium-siz
 ## 📷 Screenshots
 
 Screenshots of the application interface are available in the `/screenshots` folder.
+![image alt](https://github.com/Aarya-Kumar-Namdeo/IMS-Version1.0/blob/e7946d2071cf15537df984544a7a8da93d67b438/Screenshot%202025-06-21%20020640.png)
 
 ---
 
